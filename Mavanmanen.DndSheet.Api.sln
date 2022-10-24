@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mavanmanen.DndSheet.Api", "Mavanmanen.DndSheet.Api\Mavanmanen.DndSheet.Api.csproj", "{A11A7501-D032-46BD-913A-F0F3BBB2C10C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A11A7501-D032-46BD-913A-F0F3BBB2C10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11A7501-D032-46BD-913A-F0F3BBB2C10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11A7501-D032-46BD-913A-F0F3BBB2C10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11A7501-D032-46BD-913A-F0F3BBB2C10C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
